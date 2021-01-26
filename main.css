@@ -1,0 +1,124 @@
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+#logo{
+    font-size: 70px;
+    margin-right: 40px;
+    font-family: 'Bungee', cursive;
+    color: crimson;
+}
+
+.discription{
+    font-size: 20px;
+    margin-top: -20px;
+}
+
+#internet{
+    margin-left: 10px;
+    margin-top: 3px;
+
+}
+
+#detail{
+    margin-top:65px;
+    font-size: 20px;
+    margin-left: 30%;
+}
+
+.border-line{
+    display: flex;
+    border: 2px solid black;
+}
+
+#number{
+
+    margin-bottom: 40px;
+    color: green;
+    
+}
+
+#date{
+
+    margin-top: 40px;
+    color: green;
+    
+}
+
+.contents{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+table{
+    margin-right: 20px;
+    
+}
+
+th,td{
+    padding: 30px;
+    text-align: center;
+}
+
+table,td,th{
+    border: 1px solid black
+}
+
+#user-info{
+
+    font-size: 30px;
+
+}
+#user-info u{
+    color: brown;
+}
+
+ #signatures img{
+    width: 400px;
+    height: 200px;
+    margin-bottom: 10px ;
+    /* margin-right: 100px; */
+}
+
+#signatures{
+    display: flex;
+    justify-items: center;
+}
+
+#sign{
+    margin-top: 75px;
+}
+
+/* #images{
+margin-bottom: 500px;
+} */
+
+#contact{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.copyright{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#bottom-logo{
+    font-family: 'Bungee', cursive;
+    margin-left: 10px;
+    
+
+}
+
+#copy-sign{
+font-size: 40px;
+}
+
+.border2{
+    border: 1px solid black;
+}
